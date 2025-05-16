@@ -1,0 +1,7 @@
+This is a placeholder file. You should replace this with actual images:
+
+1. logo.png - Business Development Experts logo
+2. hero-image.jpg - A professional image showing LinkedIn networking or business growth
+3. testimonial1.jpg, testimonial2.jpg, testimonial3.jpg - Professional headshots for testimonials
+
+You can use stock photos or your own branded images.
